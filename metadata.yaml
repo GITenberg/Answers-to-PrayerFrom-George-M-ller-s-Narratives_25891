@@ -1,0 +1,35 @@
+_repo: Answers-to-PrayerFrom-George-M-ller-s-Narratives_25891
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Müller, George
+    aliases:
+    - Mueller, George
+    - Muller, George
+    - Müller, Georg Friedrich
+    birthdate: 1805
+    deathdate: 1898
+    gutenberg_agent_id: '9183'
+    url: http://www.gutenberg.org/2009/agents/9183
+    wikipedia: http://en.wikipedia.org/wiki/George_M%C3%BCller
+  editor:
+    agent_name: Brooks, A. E. C.
+    gutenberg_agent_id: '31647'
+    url: http://www.gutenberg.org/2009/agents/31647
+description: ''
+gutenberg_issued: '2008-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25891'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Prayer -- Christianity'
+title: Answers to Prayer, from George Müller's Narratives
+url: http://www.gutenberg.org/ebooks/25891
